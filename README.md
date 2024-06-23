@@ -26,8 +26,7 @@ This is a Node.js API for user authentication with endpoints for user signup, lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/user-auth-api.git
-   cd user-auth-api
+   git clone https://github.com/RiteshKumarShukla/User-Auth-API.git
    ```
 
 2. Install dependencies:
@@ -174,7 +173,7 @@ userSchema.pre("save", async function (next) {
 
    ```bash
    git clone https://github.com/RiteshKumarShukla/User-Auth-API.git
-   
+
    ```
 
 2. **Install dependencies:**
