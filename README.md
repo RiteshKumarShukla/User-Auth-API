@@ -1,4 +1,3 @@
-````markdown
 # User Authentication API
 
 This is a Node.js API for user authentication with endpoints for user signup, login, and profile management. It uses Express.js for the server and MongoDB for data storage. Additionally, it sends a confirmation email upon successful user registration.
@@ -48,7 +47,6 @@ JWT_SECRET=your_jwt_secret_key
 EMAIL_USER=your_email@example.com
 EMAIL_PASS=your_email_password
 ```
-````
 
 Replace the placeholders with your actual credentials.
 
